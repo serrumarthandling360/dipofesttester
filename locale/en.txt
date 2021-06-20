@@ -1,0 +1,99 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = DIPOFEST 2021
+
+## Skin
+
+### Label
+Label_0A786E35_17D6_91F1_41B7_49AD000A0EAF.text = Copyright DIPOFEST
+Label_0A786E35_17D6_91F1_41B7_49AD000A0EAF_mobile.text = Copyright DIPOFEST
+
+## Media
+
+### Title
+panorama_04350791_2AB0_B21E_41C5_353D51808616.label = pameran seni rupa dipofest 11
+panorama_081943F2_2B9F_F202_41C0_38237136FF8A.label = R0010747
+panorama_0B4F6814_2B90_9E06_41C2_064EA4455670.label = pameran seni rupa dipofest 10
+panorama_14271FA2_2A90_7202_41B5_85AEF18955C7.label = pameran seni rupa dipofest 14
+panorama_16036F90_2A90_B21E_41C4_83A99B54DC2A.label = pameran seni rupa dipofest 14
+panorama_1B512435_17CA_71F1_419F_9B006EDC0126.label = dipo 1
+panorama_1B567793_2AB3_9202_41C3_2FB03D09CE24.label = pameran seni rupa dipofest 12
+panorama_1B8B9C78_17CE_727F_417F_978202444A1A.label = R0010750
+panorama_1BE0C1C7_2A90_AE02_41A7_E29281C0A068.label = pameran seni rupa dipofest 18.
+panorama_1F4A82A6_2A90_9202_4181_AFFE4EFC9556.label = pameran seni rupa dipofest 5
+panorama_261C80B5_2971_AE01_41C1_83AB3EFF24BC.label = pameran seni rupa dipofest 1
+panorama_301C1445_2A91_9606_419E_4542F464D421.label = pameran seni rupa dipofest 9
+panorama_30A2A3A1_2A90_923E_41BB_64B5C82AD2C3.label = pameran seni rupa dipofest 6
+panorama_35626621_2B91_923E_41B8_FC3815A7DF20.label = pameran seni rupa dipofest 16
+panorama_3CF01260_2990_B23E_41B0_0A00E8C77937.label = pameran seni rupa dipofest 3
+panorama_3D4BE1BE_2990_6E02_41A1_2D48C6200B14.label = pameran seni rupa dipofest 4
+panorama_3E88A56F_1859_B391_41A8_1E76FC719CB2.label = dipo r12
+panorama_3E89BCBE_1859_92F3_41AC_11CC73BC25CB.label = dipo r13
+panorama_3E9E6B46_1859_B793_41B6_2050642BF3E1.label = dipo r10
+panorama_3EC46BD2_185E_76B3_4195_85D5777D6896.label = dipo r9
+panorama_3ED112CC_185E_9697_419B_1D107419C8E2.label = dipo r5
+panorama_3ED1405E_185E_B1B3_41B2_BD131DF4B5B6.label = dipo r7
+panorama_3ED14AFA_185E_F673_41AB_8882C13DB830.label = dipo r6
+panorama_3EDC4672_185E_9E73_4197_A21F540AD077.label = dipo r8
+panorama_3EEF184A_185E_9193_4196_7C44E158E6B2.label = dipo r4
+panorama_3EF75349_1859_F791_41B6_AC2BE313E12D.label = dipo r11
+panorama_3F1C9AFB_185F_B671_41B7_A1CFC1FC69FF.label = dipo 2
+panorama_3F7C50F8_185E_727F_4197_10987DA4DB0E.label = dipo r3
+video_1CD0045A_2A90_9602_41C2_998D23EEE549.label = Shira Sahasika PD_video
+video_334A07B7_2AB0_9202_41BF_25E41D588E0A.label = proses
+video_3697DE65_2B70_B206_4186_B81D32D33FB5.label = Proses gambar shafira salsabila 
+video_3738E998_269A_5AD9_4191_BD063EE64B0E.label = VID-20210618-WA0015
+video_3D03A17D_268A_4A58_41A5_825FA7C30E3A.label = proses
+video_60411A39_2A90_720E_41B9_AFBF45DD5D74.label = Fadhillah Arifin - Titrasi asam basa - menentukan kadar
+video_6067CFEE_2A90_F202_41BF_E431A7853BE4.label = Fadhillah Arifin - Makromolekul
+video_60E12DFC_2A91_9606_4191_34058FECFFDE.label = Muhammad Nico - Manusia Purba Indonesia
+video_61508890_2A90_7E1E_41BB_47DEEFA5188B.label = Fadhillah Arifin - Teori asam dan basa
+video_670FA8E5_2A90_7E06_41C3_4EF2C298FB05.label = Riandi - Siklus batuan
+video_6729C96C_2A90_7E07_41C3_F5852FA272B8.label = Zulkarnain - Revolusi Industri-1
+video_674605C1_2A91_F67E_4179_456992063E3F.label = Riandi - Konsep geografi-360p30
+video_6767674B_2A90_B202_41C5_AD06462762DE.label = Zulkarnain - Abad kegelapan Eropa
+video_676AD1CE_2A97_EE02_41C0_2E7D1202D6E0.label = Zulkarnain - Reformasi gereja
+video_67C85A4E_2A90_B202_41AF_7F680C1FDA2A.label = zulkarnain merkantilisme
+
+## Action
+
+### PDF
+PopupPDFBehaviour_718848A5_2990_BE06_41BD_BFF31AF1C4D6.url = files/Gelombang bunyi_en.pdf
+PopupPDFBehaviour_7E28DF47_2991_B202_41C2_1478D1C168C0.url = files/Gelombang stasioner_en.pdf
+
+### URL
+LinkBehaviour_44C10D3E_184E_93F3_41B7_51E381B7B768.source = https://api.whatsapp.com/send/?phone=6281359224565&text&app_absent=0
+LinkBehaviour_462AD2E0_183A_968F_41A1_122E6B967C22.source = https://api.whatsapp.com/send/?phone=6285210658441&text&app_absent=0
+LinkBehaviour_465E0981_184A_9291_4197_E9F385B8F31D.source = https://api.whatsapp.com/send/?phone=6281291496295&text&app_absent=0
+LinkBehaviour_46B28F11_184E_8FB1_41B2_6A5213FF6DC1.source = https://api.whatsapp.com/send/?phone=6281359224565&text&app_absent=0
+LinkBehaviour_46C083EE_1849_9693_4198_1BC1D0E828E3.source = https://api.whatsapp.com/send/?phone=6282123423667&text&app_absent=0
+LinkBehaviour_46F66DE1_183B_F291_41B6_4FF0CA453E61.source = https://api.whatsapp.com/send/?phone=6281383368433&text&app_absent=0
+LinkBehaviour_46FB3AEF_1836_9691_41B9_1D115BAC9602.source = https://api.whatsapp.com/send/?phone=6282190295574&text&app_absent=0
+LinkBehaviour_4789F489_184B_B291_41B1_F014A73E577C.source = https://api.whatsapp.com/send/?phone=6281514496642&text&app_absent=0
+LinkBehaviour_4E8BC933_184B_B3F1_41B5_4F45B1ECB5AA.source = https://api.whatsapp.com/send/?phone=6281291496295&text&app_absent=0
+LinkBehaviour_4EDA8933_1876_93F1_4193_52AE92366232.source = https://api.whatsapp.com/send/?phone=6281514496642&text&app_absent=0
+LinkBehaviour_78717B7B_1837_B671_419B_4FDD5F1E7CE8.source = https://api.whatsapp.com/send/?phone=6285890912197&text&app_absent=0
+LinkBehaviour_793106D2_1839_9EB3_419A_2B14E204CAC1.source = https://api.whatsapp.com/send/?phone=628811866453&text&app_absent=0
+LinkBehaviour_7973D4BF_183A_B2F1_41B1_2372D4F77DD2.source = https://api.whatsapp.com/send/?phone=6285811069105&text&app_absent=0
+LinkBehaviour_79C312BD_184A_96F1_41A4_3E15289CFCA3.source = https://api.whatsapp.com/send/?phone=6287872559077&text&app_absent=0
+LinkBehaviour_7B7F4958_184B_93BF_419F_CA2DFC5773BE.source = https://api.whatsapp.com/send/?phone=6287872559077&text&app_absent=0
+LinkBehaviour_7BA56FFE_183A_8E73_41A4_E2B247FFDB65.source = https://api.whatsapp.com/send/?phone=6281383368433&text&app_absent=0
+LinkBehaviour_7BB0EE13_1836_71B1_41A2_D6F4B08F8407.source = https://api.whatsapp.com/send/?phone=6282123423667&text&app_absent=0
+LinkBehaviour_7BC1A3D6_183A_96B3_4195_513DF9093F96.source = https://api.whatsapp.com/send/?phone=6285210658441&text&app_absent=0
+LinkBehaviour_7BF49C99_1839_F2B1_4179_5DD6DB5DB08A.source = https://api.whatsapp.com/send/?phone=6282190295574&text&app_absent=0
+LinkBehaviour_7CAEEB7E_183A_7673_41A9_429CB43BA1FC.source = https://api.whatsapp.com/send/?phone=628811866453&text&app_absent=0
+LinkBehaviour_7CF985B6_1837_92F3_41B4_6443B4ED4772.source = https://api.whatsapp.com/send/?phone=6285890912197&text&app_absent=0
+LinkBehaviour_7D033539_1836_73F1_41B2_C3F8675C0D7D.source = https://api.whatsapp.com/send/?phone=6289692325491&text&app_absent=0
+LinkBehaviour_7DA1885F_183A_71B1_4195_933BCF3BC21A.source = https://api.whatsapp.com/send/?phone=6285811069105&text&app_absent=0
+LinkBehaviour_7E2BC439_1837_91F1_41B2_E77278D20985.source = https://api.whatsapp.com/send/?phone=6289692325491&text&app_absent=0
+PopupWebFrameBehaviour_0925C757_17D7_FFB1_4174_F1FC5B97BADD.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
+PopupWebFrameBehaviour_09ABA98D_17D9_9291_41A7_06F6C551E8FA.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
+PopupWebFrameBehaviour_4850FBE5_185A_B691_4195_0DDB37835499.url = https://www.instagram.com/p/CHEiJoHrj3v/embed
+PopupWebFrameBehaviour_524A79B1_19CE_72F1_41AE_F42077717D63.url = https://www.instagram.com/p/CQDsu-psyHi/embed
+PopupWebFrameBehaviour_55FC5F69_1836_8F91_41B8_863DBEA0C8B2.url = https://www.instagram.com/p/CHEiJoHrj3v/embed
+PopupWebFrameBehaviour_56683713_1856_9FB1_41B0_49D18FD33EF2.url = https://www.instagram.com/p/CQDsu-psyHi/embed
